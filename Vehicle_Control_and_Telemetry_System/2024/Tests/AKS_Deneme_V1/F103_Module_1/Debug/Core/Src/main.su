@@ -1,0 +1,16 @@
+../Core/Src/main.c:115:5:main	16	static
+../Core/Src/main.c:245:6:SystemClock_Config	72	static
+../Core/Src/main.c:285:13:MX_CAN_Init	48	static
+../Core/Src/main.c:335:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:368:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:394:6:sendNextion	32	static
+../Core/Src/main.c:454:9:def_msb	16	static
+../Core/Src/main.c:458:9:def_lsb	16	static
+../Core/Src/main.c:463:8:Thermistor	32	static
+../Core/Src/main.c:477:6:txtNextion	72	static
+../Core/Src/main.c:505:6:numNextion	72	static
+../Core/Src/main.c:514:6:picNextion	72	static
+../Core/Src/main.c:523:6:ppicNextion	72	static
+../Core/Src/main.c:531:6:progbarNextion	72	static
+../Core/Src/main.c:539:6:inttxtNextion	72	static
+../Core/Src/main.c:556:6:Error_Handler	4	static,ignoring_inline_asm

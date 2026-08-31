@@ -1,0 +1,12 @@
+../Core/Src/main.c:122:5:main	1
+../Core/Src/main.c:208:6:SystemClock_Config	3
+../Core/Src/main.c:254:13:MX_ADC1_Init	3
+../Core/Src/main.c:306:13:MX_I2C1_Init	2
+../Core/Src/main.c:340:13:MX_I2S3_Init	2
+../Core/Src/main.c:374:13:MX_SPI1_Init	2
+../Core/Src/main.c:412:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:445:13:MX_GPIO_Init	1
+../Core/Src/main.c:537:6:send_at_command	1
+../Core/Src/main.c:561:6:send_data_cont	1
+../Core/Src/main.c:588:6:send_data_to_server	1
+../Core/Src/main.c:648:6:Error_Handler	1

@@ -1,0 +1,9 @@
+../Core/Src/main.c:59:21:init_stack	24	static
+../Core/Src/main.c:92:8:Thermistor	32	static
+../Core/Src/main.c:146:5:main	24	static
+../Core/Src/main.c:286:6:SystemClock_Config	72	static
+../Core/Src/main.c:326:13:MX_CAN_Init	48	static
+../Core/Src/main.c:375:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:408:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:435:6:sendFixedMessage	24	static
+../Core/Src/main.c:457:6:Error_Handler	4	static,ignoring_inline_asm
